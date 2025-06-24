@@ -14,7 +14,7 @@
 ### 02. Anomaly Detection
 | No | 논문 제목 | 대표 저자 | 연도 | 간단 요약|
 | :--- | :--- | :--- | :--- | :---: |
-|  |  |  |  |  |
+| 1 | Anomaly Detection : A Survey | Chandola | 2009 | 이상 탐지의 주요 개념, 방법론, 응용, 도전 과제 등 포괄적 정리 |
 
 ### 03. Machine Learning
 | No | 논문 제목 | 대표 저자 | 연도 | 간단 요약|
