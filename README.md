@@ -9,7 +9,7 @@
 제조업 분야 데이터사이언스 및 산업 응용 관련 논문
 | No | 논문 제목 | 대표 저자 | 연도 | 간단 요약|
 | :--- | :--- | :--- | :--- | :---: |
-|  |  |  |  |  |
+| 1 | Key performance indicators for manufacturing operations management-gap anlaysis between process industrial needs and ISO 22400 standard | Li Zhu | 2018 | 제조업의 특성에 따른 ISO 22400 표준의 적합성 |
 
 ### 02. Anomaly Detection
 | No | 논문 제목 | 대표 저자 | 연도 | 간단 요약|
