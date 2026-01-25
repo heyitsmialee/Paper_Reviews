@@ -24,7 +24,7 @@
 ### 04. NLP
 | No | 논문 제목 | 대표 저자 | 연도 | 간단 요약|
 | :--- | :--- | :--- | :--- | :---: |
-|  |  |  |  |  |
+| 1 | Attention Is All You Need | Ashish Vaswani | 2017 | Multi-Headed Self-Attention |
 
 ### 05. Computer Vision
 | No | 논문 제목 | 대표 저자 | 연도 | 간단 요약|
